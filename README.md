@@ -1,4 +1,4 @@
-# XML XSLT Style Sheet Demo
+# XSLT XML Style Sheet Demo
 
 This project is not designed to be a comprehensive guide to `XSLT`. It is designed to be a simple, easy to understand, and easy to follow example of how to use `XSLT` and how `1.0` differs from `2.0` (and how to answer a question on Stack Overflow).
 
