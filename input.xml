@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document version="1.0" language="en">
+    <header>
+        <creation-date>2022-08-09T08:46:00</creation-date>
+        <SequenceOfDocument>10</SequenceOfDocument>
+    </header>
+    <businessobjects>
+        <Reservation id="r1" status="active">
+            <BeginDateTime>2022-07-29T16:00:00</BeginDateTime>
+            <OrderNumber>606.00</OrderNumber>
+            <Person>
+                <UsrAddress>
+                    <Code>0393</Code>
+                </UsrAddress>
+            </Person>
+            <TotalActualCostExclVAT>30.00</TotalActualCostExclVAT>
+            <ParentOrderRef/>
+        </Reservation>
+        <Reservation id="r2" status="active">
+            <BeginDateTime>2022-07-29T16:00:00</BeginDateTime>
+            <OrderNumber>606.01</OrderNumber>
+            <RefBODefinitionUserDefined>UsrReservationEquipment</RefBODefinitionUserDefined>
+            <Person>
+                <UsrAddress>
+                    <Code>0393</Code>
+                </UsrAddress>
+            </Person>
+            <TotalActualCostExclVAT>40.00</TotalActualCostExclVAT>
+            <ParentOrderRef>606.00</ParentOrderRef>
+        </Reservation>
+        <Reservation id="r3" status="inactive">
+            <BeginDateTime>2022-07-29T16:00:00</BeginDateTime>
+            <OrderNumber>607.00</OrderNumber>
+            <RefBODefinitionUserDefined>UsrReservationEquipment</RefBODefinitionUserDefined>
+            <Person>
+                <UsrAddress>
+                    <Code>0500</Code>
+                </UsrAddress>
+            </Person>
+            <TotalActualCostExclVAT>50.00</TotalActualCostExclVAT>
+            <ParentOrderRef/>
+        </Reservation>
+    </businessobjects>
+</document>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesOrderHeader>
+   <SalesOrderHeaderFields>
+      <CustomerNumber>0393</CustomerNumber>
+   </SalesOrderHeaderFields>
+   <ItemFields>
+      <_USERFIELD1>606.00</_USERFIELD1>
+   </ItemFields>
+   <ItemFields>
+      <_USERFIELD1>606.01</_USERFIELD1>
+   </ItemFields>
+</SalesOrderHeader>
+<SalesOrderHeader>
+   <SalesOrderHeaderFields>
+      <CustomerNumber>0500</CustomerNumber>
+   </SalesOrderHeaderFields>
+   <ItemFields>
+      <_USERFIELD1>607.00</_USERFIELD1>
+   </ItemFields>
+</SalesOrderHeader>
