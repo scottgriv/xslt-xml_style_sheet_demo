@@ -13,7 +13,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 ## Project Information
 
 **Repository Tier:** Bronze <br>
-**Technology:** XSLT, XML <br>
+**Technology:** XSLT, XML, Stack Overflow <br>
 **Category:** Style Sheet <br>
 **Order:** 0 <br>
 

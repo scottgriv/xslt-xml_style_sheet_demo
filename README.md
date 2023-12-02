@@ -8,7 +8,7 @@
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/XSLT"><img src="https://img.shields.io/badge/XSLT-1.0-722A63?style=for-the-badge&logo=xslt" alt="XSLT Badge" /></a>
     <a href="https://en.wikipedia.org/wiki/XSLT"><img src="https://img.shields.io/badge/XSLT-2.0-722A63?style=for-the-badge&logo=xslt" alt="XSLT Badge" /></a>
-    <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/Stack_Overflow-Website-F58025?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge" /></a>
+    <a href="https://stackoverflow.com/questions/73288223/xslt-grouping-into-header-positions"><img src="https://img.shields.io/badge/Stack_Overflow-Answer-F58025?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge" /></a>
     <br>
     <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
     <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
@@ -62,6 +62,7 @@ I've included a copy of the `XSLT` files in this repository for reference (the `
 
 ## Resources
 
+- [Stack Overflow](https://stackoverflow.com/)
 - [XSLT Fiddle](https://xsltfiddle.liberty-development.net/)
 - [Saxon 10.6 HE Engine](https://www.saxonica.com/welcome/welcome.xml)
 - [xsl:for-each-group](https://www.w3.org/TR/xslt20/#xsl-for-each-group)
